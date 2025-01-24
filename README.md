@@ -4,12 +4,16 @@ This repository contains tasks completed during my internship at Prodigy InfoTec
 
 ## Task 1: Linear Regression for House Price Prediction
 This project is part of my internship at Prodigy InfoTech, where I implemented a machine learning model to predict house prices based on given features like square footage, number of bedrooms, and bathrooms. The project demonstrates the use of Linear Regression for predictive modeling.
-
+<br>
 **Project Overview**
 The goal of this project is to build a regression model that accurately predicts house prices using a dataset from Kaggle. The dataset includes features such as:
+<br>
 :) Square Footage
+<br>
 :) Number of Bedrooms
+<br>
 :) Number of Bathrooms
+<br>
 By training a linear regression model, we can identify the relationship between these features and house prices.
 
 **Tools and Libraries Used**
