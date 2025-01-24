@@ -28,48 +28,48 @@ By training a linear regression model, we can identify the relationship between 
 
 **Libraries** :
 <br>
-*numpy*: For numerical computations.
+**numpy**: For numerical computations.
 <br>
-*pandas*: For data manipulation and preprocessing.
+**pandas**: For data manipulation and preprocessing.
 <br>
-*matplotlib and seaborn*: For data visualization.
+**matplotlib and seaborn**: For data visualization.
 <br>
-*scikit-learn*: For building and evaluating the linear regression model.
+**scikit-learn**: For building and evaluating the linear regression model.
 <br>
 
-**Implementation Steps**
+**Implementation Steps** 
 <br>
-*Data Preprocessing*: 
+**Data Preprocessing**: 
 <br>
 :) Handled missing values, if any.
 <br>
 :) Performed data exploration and visualization to understand the relationships between features and target values.
 <br>
 
-*Feature Engineering*:
+**Feature Engineering**:
 <br>
 :) Selected relevant features for the prediction model.
 <br>
 
-*Model Building*:
+**Model Building**:
 :) Implemented a Linear Regression model using scikit-learn.
 <br>
 
-*Evaluation*:
+**Evaluation**:
 <br>
 :) Used metrics like Mean Absolute Error (MAE) and R² Score to evaluate model performance.
 <br>
 
-**Results**
+**Results**:
 <br>
 The model successfully captured the relationship between house features and prices.
 <br>
 
-*Evaluation Metrics*:
+**Evaluation Metrics**:
 <br>
-R² Score: [0.4559299118872445]
+**R² Score**: [0.4559299118872445]
 <br>
-Mean Absolute Error (MAE): [1658324.6001036866]
+**Root Mean Squared Error (RMSE)**: [1658324.6001036866]
 <br>
 
 **Author**
@@ -78,9 +78,9 @@ Simran Chaudhary
 <br>
 Role: Machine Learning Intern at Prodigy InfoTech
 <br>
-LinkedIn: https://www.linkedin.com/in/simran-chaudhary-5533b7308/
+**LinkedIn**: https://www.linkedin.com/in/simran-chaudhary-5533b7308/
 <br>
-GitHub: https://github.com/Simran-ch
+**GitHub**: https://github.com/Simran-ch
 <br>
 
 ## Conclusion
