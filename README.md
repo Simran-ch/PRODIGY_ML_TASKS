@@ -37,27 +37,27 @@ By training a linear regression model, we can identify the relationship between 
 **scikit-learn**: For building and evaluating the linear regression model.
 <br>
 
-**Implementation Steps** 
+**Implementation Steps** :
 <br>
-**Data Preprocessing**: 
+(1) **Data Preprocessing**: 
 <br>
 :) Handled missing values, if any.
 <br>
 :) Performed data exploration and visualization to understand the relationships between features and target values.
 <br>
 
-**Feature Engineering**:
+(2) **Feature Engineering**:
 <br>
 :) Selected relevant features for the prediction model.
 <br>
 
-**Model Building**:
+(3) **Model Building**:
 :) Implemented a Linear Regression model using scikit-learn.
 <br>
 
-**Evaluation**:
+(4) **Evaluation**:
 <br>
-:) Used metrics like Mean Absolute Error (MAE) and R² Score to evaluate model performance.
+:) Used metrics like Root Mean Squared Error (RMSE) and R² Score to evaluate model performance.
 <br>
 
 **Results**:
@@ -72,9 +72,7 @@ The model successfully captured the relationship between house features and pric
 **Root Mean Squared Error (RMSE)**: [1658324.6001036866]
 <br>
 
-**Author**
-<br>
-Simran Chaudhary
+**Author**: Simran Chaudhary
 <br>
 Role: Machine Learning Intern at Prodigy InfoTech
 <br>
