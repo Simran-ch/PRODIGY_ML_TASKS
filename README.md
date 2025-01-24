@@ -18,12 +18,14 @@ The goal of this project is to build a regression model that accurately predicts
 <br>
 By training a linear regression model, we can identify the relationship between these features and house prices.
 <br>
+
 **Tools and Libraries Used :**
 <br>
 **Python** : For scripting and implementation.
 <br>
 **Google Colab** : For writing and running the code in a Jupyter Notebook environment.
 <br>
+
 **Libraries** :
 <br>
 *numpy*: For numerical computations.
@@ -34,6 +36,7 @@ By training a linear regression model, we can identify the relationship between 
 <br>
 *scikit-learn*: For building and evaluating the linear regression model.
 <br>
+
 **Implementation Steps**
 <br>
 *Data Preprocessing*: 
@@ -42,27 +45,33 @@ By training a linear regression model, we can identify the relationship between 
 <br>
 :) Performed data exploration and visualization to understand the relationships between features and target values.
 <br>
+
 *Feature Engineering*:
 <br>
 :) Selected relevant features for the prediction model.
+<br>
 
 *Model Building*:
 :) Implemented a Linear Regression model using scikit-learn.
 <br>
+
 *Evaluation*:
 <br>
 :) Used metrics like Mean Absolute Error (MAE) and R² Score to evaluate model performance.
 <br>
+
 **Results**
 <br>
 The model successfully captured the relationship between house features and prices.
 <br>
+
 *Evaluation Metrics*:
 <br>
 R² Score: [0.4559299118872445]
 <br>
 Mean Absolute Error (MAE): [1658324.6001036866]
 <br>
+
 **Author**
 <br>
 Simran Chaudhary
@@ -73,7 +82,6 @@ LinkedIn: https://www.linkedin.com/in/simran-chaudhary-5533b7308/
 <br>
 GitHub: https://github.com/Simran-ch
 <br>
-
 
 ## Conclusion
 <br>
