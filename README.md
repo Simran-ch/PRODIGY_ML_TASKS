@@ -1,2 +1,2 @@
 # PRODIGY_ML_01
-This repository contains Internship tasks for Prodigy InfoTech.
+This repository contains Machine Learning internship tasks for Prodigy InfoTech.
