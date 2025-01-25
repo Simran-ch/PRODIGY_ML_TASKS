@@ -20,6 +20,19 @@ The goal of this project is to build a regression model that accurately predicts
 <br>
 :) Number of Bathrooms
 <br>
+:) stories (Number of House Stories)
+<br>
+:) mainroad (Whether connected to Main Road)
+<br>
+:) guestroom (Whether has a guest room)
+<br>
+:) basement (Whether has a basement)
+<br>
+:) hotwaterheating (Whether has a hotwater heater)
+<br>
+:) airconditioning (Whether has an airconditioning)
+<br>
+
 By training a linear regression model, we can identify the relationship between these features and house prices.
 <br>
 
