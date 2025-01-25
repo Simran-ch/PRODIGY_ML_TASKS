@@ -32,6 +32,8 @@ By training a linear regression model, we can identify the relationship between 
 <br>
 **pandas**: For data manipulation and preprocessing.
 <br>
+**matplotlib**: For data visualization.
+<br>
 **scikit-learn**: For building and evaluating the linear regression model.
 <br>
 
