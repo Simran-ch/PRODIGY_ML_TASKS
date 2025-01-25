@@ -52,6 +52,7 @@ By training a linear regression model, we can identify the relationship between 
 <br>
 
 (3) **Model Building**:
+<br>
 :) Implemented a Linear Regression model using scikit-learn.
 <br>
 
