@@ -19,14 +19,14 @@ The goal of this project is to build a regression model that accurately predicts
 By training a linear regression model, we can identify the relationship between these features and house prices.
 <br>
 
-**Tools and Libraries Used :**
+**Tools Used :**
 <br>
 **Python** : For scripting and implementation.
 <br>
 **Google Colab** : For writing and running the code in a Jupyter Notebook environment.
 <br>
 
-**Libraries** :
+**Libraries Used** :
 <br>
 **numpy**: For numerical computations.
 <br>
