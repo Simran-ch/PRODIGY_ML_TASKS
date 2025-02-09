@@ -163,6 +163,7 @@ Includes KMeans for clustering and StandardScaler for feature scaling .
 <br>
 
 (3) **Applying K-Means Algorithm** : 
+<br>
 :) Train the K-Means model with the optimal number of clusters (determined by Elbow method).
 <br>
 :) Assign each customer a cluster.
