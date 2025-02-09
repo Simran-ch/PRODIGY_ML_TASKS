@@ -7,12 +7,12 @@ This repository contains tasks completed during my internship at Prodigy InfoTec
 **Dataset:** https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
 <br>
 
-This project is part of my internship at Prodigy InfoTech, where I implemented a machine learning model to predict house prices based on given features like square footage, number of bedrooms, and bathrooms. The project demonstrates the use of Linear Regression for predictive modeling.
+This task is part of my internship at Prodigy InfoTech, where I implemented a machine learning model to predict house prices based on given features like square footage, number of bedrooms, and bathrooms. The task demonstrates the use of Linear Regression for predictive modeling.
 <br>
 
 **[Project Overview]**
 <br>
-The goal of this project is to build a regression model that accurately predicts house prices using a dataset from Kaggle. The dataset includes features such as:
+The goal of this task is to build a regression model that accurately predicts house prices using a dataset from Kaggle. The dataset includes features such as:
 <br>
 :) Square Footage
 <br>
@@ -107,12 +107,12 @@ The model successfully captured the relationship between house features and pric
 **Dataset:** https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 <br>
 
-This project is part of my internship at Prodigy InfoTech, where i implemented a K-means clustering algorithm to group customers of a retail store based on their purchase history based on given features like CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100). 
+This task is part of my internship at Prodigy InfoTech, where i implemented a K-means clustering algorithm to group customers of a retail store based on their purchase history based on given features like CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100). 
 <br>
 
 **[Project Overview]**
 <br>
-The goal of this project is to create a K-means clustering algorithm to group customers of a retail store based on their purchase history using a dataset from Kaggle. The dataset includes features such as:
+The goal of this task is to create a K-means clustering algorithm to group customers of a retail store based on their purchase history using a dataset from Kaggle. The dataset includes features such as:
 <br>
 :) CustomerID : Unique ID assigned to the customer
 <br>
