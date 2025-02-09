@@ -10,7 +10,7 @@ This repository contains tasks completed during my internship at Prodigy InfoTec
 This project is part of my internship at Prodigy InfoTech, where I implemented a machine learning model to predict house prices based on given features like square footage, number of bedrooms, and bathrooms. The project demonstrates the use of Linear Regression for predictive modeling.
 <br>
 
-**Project Overview :**
+**[Project Overview] :**
 <br>
 The goal of this project is to build a regression model that accurately predicts house prices using a dataset from Kaggle. The dataset includes features such as:
 <br>
@@ -131,7 +131,8 @@ The goal of this project is to create a K-means clustering algorithm to group cu
 <br>
 **seaborn**: Built on top of Matplotlib, used for statistical data visualization.
 <br>
-**scikit-learn**: For building and evaluating the linear regression model.
+**scikit-learn**: A machine learning library that provides simple and efficient tools for data analysis and modeling.
+Includes KMeans for clustering and StandardScaler for feature scaling .
 <br>
 
 **Implementation Steps** :
