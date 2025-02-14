@@ -188,19 +188,20 @@ Includes KMeans for clustering and StandardScaler for feature scaling .
 
 **Dataset:** https://www.kaggle.com/datasets/samuelcortinhas/cats-and-dogs-image-classification/data
 <br>
-Dataset Structure:
+
+**--Dataset Structure--**
 <br>
 The dataset is well-structured, containing two folders:
 <br>
-:) train (for model training)
+:) **train** (for model training)
 <br>
-:) test  (for model evaluation)
+:) **test**  (for model evaluation)
 <br>
 Each folder has two subdirectories— cats and dogs, making it a great dataset for supervised learning tasks.
 <br>
 
 
-This task is part of my internship at Prodigy InfoTech, where i implemented a support vector machine (SVM) to classify images of cats and dogs.
+This task is part of my internship at Prodigy InfoTech, where i implemented a **support vector machine (SVM)** to classify images of cats and dogs.
 <br>
 
 **--Project Overview--**
@@ -223,14 +224,29 @@ This project implements an image classification model to distinguish between cat
 
 **numpy**: For numerical computations.
 <br>
+**os** : To navigate through dataset directories.
+<br>
+**cv2 (OpenCV)** : For image processing (resizing, reading images).
+<br>
 **pandas**: For data manipulation and preprocessing.
 <br>
+**tensorflow.keras.applications.MobileNetV2** : Pretrained CNN model for feature extraction.
+<br>
+**tensorflow.keras.applications.mobilenet_v2.preprocess_input** : To preprocess images before feeding them into MobileNetV2.
+<br>
+**sklearn.svm.SVC** : Support Vector Machine (SVM) classifier.
+<br>
+**sklearn.model_selection.train_test_split** : To split the dataset into training and testing sets.
+<br>
+**sklearn.preprocessing.LabelEncoder** : To encode categorical labels (cats & dogs).
+<br>
+**sklearn.metrics.accuracy_score** : To measure model accuracy.
+<br>
+**sklearn.metrics.confusion_matrix** : To analyze classification performance.
+<br>
+**sklearn.metrics.classification_report**  To generate precision, recall, and F1-score for model evaluation.
+<br>
 **matplotlib**: A widely used data visualization library.
-<br>
-**seaborn**: Built on top of Matplotlib, used for statistical data visualization.
-<br>
-**scikit-learn**: A machine learning library that provides simple and efficient tools for data analysis and modeling.
-Includes KMeans for clustering and StandardScaler for feature scaling .
 <br>
 
 **--Implementation Steps--**
